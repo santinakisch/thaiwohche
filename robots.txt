@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahmaixohg.realcoinforks.com/sitemap.xml
